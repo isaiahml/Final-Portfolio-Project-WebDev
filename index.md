@@ -30,7 +30,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://portfolium1.cloudimg.io/s/crop/192x192/https://cdn.portfolium.com/ugcs3%2Fv3%2Favatar%2FlnaDQ6VcQQWJRt5MRq47_IMG_5814.JPG" alt="Jane" style="width:100%">
+      <img src="https://portfolium1.cloudimg.io/s/crop/192x192/https://cdn.portfolium.com/ugcs3%2Fv3%2Favatar%2FlnaDQ6VcQQWJRt5MRq47_IMG_5814.JPG" alt="Picture of Isaiah" style="width:100%">
       <div class="container">
         <h2>Isaiah Lesley</h2>
         <p class="title">CEO & Founder</p>
@@ -43,7 +43,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/67509020_2600833579937454_8331333911028170752_n.jpg?_nc_cat=106&ccb=2&_nc_sid=174925&_nc_ohc=gGEP1tIGTYQAX_1peKT&_nc_ht=scontent-ort2-2.xx&oh=7df5abf2171edd34f25677922418bf0b&oe=5FFC5447" alt="Jane" style="width:100%">
+      <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/67509020_2600833579937454_8331333911028170752_n.jpg?_nc_cat=106&ccb=2&_nc_sid=174925&_nc_ohc=gGEP1tIGTYQAX_1peKT&_nc_ht=scontent-ort2-2.xx&oh=7df5abf2171edd34f25677922418bf0b&oe=5FFC5447" alt="Picture of Vicky" style="width:100%">
       <div class="container">
         <h2>Victoria Soto</h2>
         <p class="title">Assistant</p>
@@ -56,7 +56,7 @@
   <div class="row">
     <div class="column">
       <div class="card">
-        <img src="file:///Users/isaiahlesley/Downloads/IMG_0183.jpg" alt="Jane" style="width:100%">
+        <img src="https://res.cloudinary.com/campus-job/image/upload/t_student-public-page/v1/profile_pictures/bEOamyPxP6_20170822.jpg" alt="Picture of Sam" style="width:100%">
         <div class="container">
           <h2>Samantha Bone</h2>
           <p class="title">Assistant</p>
