@@ -17,6 +17,7 @@
     <a href="aboutme.html">About Me</a></li>
   </div>
   <div>
+  <script src="comingsoon.js"></script>
     <img class="mySlides" src="file:///Users/isaiahlesley/Downloads/3rd%20podcast%20banner%20-%20draft.JPG" style="width:100%">
     <img class="mySlides" src="file:///Users/isaiahlesley/Downloads/LPCC%20Graphic%20for%20Social%20Media.JPG" style="width:100%">
     <img class="mySlides" src="file:///Users/isaiahlesley/Downloads/Potcast%20Channel%20banner.JPG" style="width:100%"> <i>graphics created by Isaiah.</i>
@@ -75,6 +76,6 @@
     Powered by <a href="https://canvas.colum.edu/courses/17363" target="_blank">Professor Douglas & Team</a>
     </p>
   </footer>
-  <script src="comingsoon.js"></script>
+  
 </body>
 </html>
